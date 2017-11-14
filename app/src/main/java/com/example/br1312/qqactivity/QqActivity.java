@@ -9,5 +9,6 @@ public class QqActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_qq);
+        //测试上传
     }
 }
