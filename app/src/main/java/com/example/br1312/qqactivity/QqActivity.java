@@ -10,5 +10,7 @@ public class QqActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_qq);
         //测试上传 我是天才白
+
+        //limynl上传代码
     }
 }
